@@ -4,7 +4,7 @@ const PersonalInfo = {
     age : "20"
 }
 let infoarray = [PersonalInfo ,PersonalInfo , PersonalInfo, PersonalInfo ,PersonalInfo]
-console.log(infoarray[0])
+console.log(infoarray)
 // #2
 const PersonalProperties = {
     firstname: "Giorgi",
